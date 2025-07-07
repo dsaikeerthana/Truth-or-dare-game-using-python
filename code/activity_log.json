@@ -1,0 +1,110 @@
+[
+    {
+        "timestamp": "2025-06-29T16:44:45.028781",
+        "player": "Sai",
+        "action": "play",
+        "detail": "Selected truth: Have you ever lied to your best friend?"
+    },
+    {
+        "timestamp": "2025-06-29T16:44:49.998283",
+        "player": "Sai",
+        "action": "submit",
+        "detail": "skipped a truth question"
+    },
+    {
+        "timestamp": "2025-06-29T16:44:52.868752",
+        "player": "Sai",
+        "action": "submit",
+        "detail": "completed a truth question"
+    },
+    {
+        "timestamp": "2025-06-29T16:44:52.900022",
+        "player": "Sai",
+        "action": "submit",
+        "detail": "completed a truth question"
+    },
+    {
+        "timestamp": "2025-06-29T16:44:53.007953",
+        "player": "Sai",
+        "action": "submit",
+        "detail": "completed a truth question"
+    },
+    {
+        "timestamp": "2025-06-29T16:45:12.453187",
+        "player": "Sai",
+        "action": "play",
+        "detail": "Selected truth: What's a secret you've never told anyone?"
+    },
+    {
+        "timestamp": "2025-06-29T16:45:14.941711",
+        "player": "Sai",
+        "action": "submit",
+        "detail": "completed a truth question"
+    },
+    {
+        "timestamp": "2025-06-29T16:45:24.453029",
+        "player": "Keerthana",
+        "action": "play",
+        "detail": "Selected dare: Send a funny selfie to a friend!"
+    },
+    {
+        "timestamp": "2025-06-29T16:45:28.325850",
+        "player": "Keerthana",
+        "action": "submit",
+        "detail": "skipped a dare question"
+    },
+    {
+        "timestamp": "2025-06-29T17:39:08.099060",
+        "player": "kee",
+        "action": "play",
+        "detail": "Selected truth: Have you ever lied to your best friend?"
+    },
+    {
+        "timestamp": "2025-06-29T17:39:14.300956",
+        "player": "kee",
+        "action": "submit",
+        "detail": "completed a truth question"
+    },
+    {
+        "timestamp": "2025-06-30T12:55:58.739336",
+        "player": "kee",
+        "action": "play",
+        "detail": "Selected dare: Sing your favorite song aloud!"
+    },
+    {
+        "timestamp": "2025-06-30T12:56:03.443999",
+        "player": "kee",
+        "action": "submit",
+        "detail": "completed a dare question"
+    },
+    {
+        "timestamp": "2025-06-30T12:58:01.947003",
+        "player": "kee",
+        "action": "play",
+        "detail": "Selected dare: Do 10 jumping jacks right now!"
+    },
+    {
+        "timestamp": "2025-06-30T12:58:05.488648",
+        "player": "kee",
+        "action": "submit",
+        "detail": "completed a dare question"
+    },
+    {
+        "timestamp": "2025-06-30T12:58:31.278737",
+        "player": "admin",
+        "action": "add_question",
+        "detail": "Added to dare: dance to your fav song"
+    },
+    {
+        "timestamp": "2025-06-30T12:58:41.320106",
+        "player": "kee",
+        "action": "play",
+        "detail": "Selected dare: dance to your fav song"
+    },
+    {
+        "timestamp": "2025-06-30T12:58:45.900513",
+        "player": "kee",
+        "action": "submit",
+        "detail": "skipped a dare question"
+    }
+]
